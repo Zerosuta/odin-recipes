@@ -1,2 +1,2 @@
 # odin-recipes
-This is project to practice my skillls on html
+This is a project to practice my skillls on html
