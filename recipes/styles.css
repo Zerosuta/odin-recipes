@@ -1,0 +1,30 @@
+.Title {
+    color:black;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 42px;
+}
+.text{
+    color: black;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.text2 {
+    color: black;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+img{
+  width: 800px;
+  height: 700px;
+}
+
+.para {
+    color: black;
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+}
